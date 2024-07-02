@@ -72,10 +72,10 @@ ul li{
 }
 a{
     text-decoration: none;
-    color: var(--white)
+    color: var(--Links)
 }
 a:hover{
-    color:var(--Links);
+    color:var(--white);
     text-decoration:underline;
 }
 
